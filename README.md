@@ -14,7 +14,7 @@ User chooses the departure city and the destination city. If there is a valid wa
 
 ## 2 Şehir Arasındaki En Kısa Yol Bulma
 
-Bu proje, aşağıdaki haritadan 2 şehir arasındaki en kısa mesafeyi hesaplamak için ** Dijkstra Algoritmasını ** kullanır. Gördüğünüz gibi, bir şehir yalnızca diğerine gidebilir ve yollar tek yönlüdür.
+Bu proje, aşağıdaki haritadan 2 şehir arasındaki en kısa mesafeyi hesaplamak için **Dijkstra Algoritmasını** kullanır. Gördüğünüz gibi, bir şehir yalnızca diğerine gidebilir ve yollar tek yönlüdür.
 
 <p align="center">
   <img src="https://i.hizliresim.com/4obMs0.png">
